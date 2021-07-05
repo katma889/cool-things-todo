@@ -1,5 +1,7 @@
 # welcome to my site
-##section 1 about racoons
+
+[Page2](page2.html)
+## section 1 about racoons
 
 
 a racoon like grabbing_food_but_they get angry
