@@ -13,6 +13,6 @@ Things racoons wish they had
 2. food
 - chips
 
-![A picture of a raccon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wvxu.org%2Fpost%2Fafter-raccoon-found-school-zoo-director-says-people-animals-can-still-co-exist&psig=AOvVaw2WfASPFt27CpOonMOB1whv&ust=1625612899498000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCICMvI2GzfECFQAAAAAdAAAAABAD)
+![A picture of a raccon](https://www.wvxu.org/sites/wvxu/files/styles/x_large/public/201904/raccoon-1905528_1920.jpg)
 
 <!-- a comment I hope doesnot show up -->
