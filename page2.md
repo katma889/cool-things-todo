@@ -1,5 +1,5 @@
 # Page 2
-[Take me back to the index](index.html)
+![Take me back to the index](index.html)
 
 ...
 1+3 = 4
